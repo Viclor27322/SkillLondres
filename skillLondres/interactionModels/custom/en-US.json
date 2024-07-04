@@ -1,0 +1,78 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "help"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "stop"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "cityDescriptionIntent",
+          "samples": [
+            "tell me about london"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "tell me music from London"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TouristSpotsIntent",
+          "samples": [
+            "tell me the tourist places in London"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TypicalFoodIntent",
+          "samples": [
+            "tell me typical London food"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TraditionalDressIntent",
+          "samples": [
+            "tell me the typical London costume"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FamousPeopleIntent",
+          "samples": [
+            "tell me important people in London"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "ciudad londres"
+    }
+  }
+}
